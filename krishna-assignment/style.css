@@ -1,23 +1,5 @@
-h1 {
-    padding-top: 10%;
-    text-align: center;
-}
-
-.content {
-    text-align: center;
-    margin: 0px 20px 0px;
-}
-
-.subtitle {
-    text-align: center;
-}
-
-
-/*example 2 */
-
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 28px;
 }
 
 .navbar {
@@ -79,4 +61,20 @@ body {
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+.header {
+    /* padding: 5%; */
+    background-color: rgb(120, 225, 236);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    /* border-color: rgb(120, 76, 224);
+    border-style: dotted;
+    border-width: 10px;
+    margin: 10% 10%; */
+}
+
+img {
+    width: 400px;
+    border-radius: 100%;
 }
